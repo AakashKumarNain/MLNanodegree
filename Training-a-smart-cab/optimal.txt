@@ -1789,3 +1789,4 @@ LearningAgent.update(): deadline = 28, inputs = {'light': 'red', 'oncoming': Non
 LearningAgent.update(): deadline = 27, inputs = {'light': 'green', 'oncoming': None, 'right': None, 'left': None}, action = forward, reward = 2.0
 LearningAgent.update(): deadline = 26, inputs = {'light': 'red', 'oncoming': 'left', 'right': None, 'left': None}, action = forward, reward = 2.0
 Environment.act(): Primary agent has reached destination!
+
